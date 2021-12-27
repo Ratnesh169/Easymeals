@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Easymeals/static/css/main.0d5b549c.css",
+    "main.js": "/Easymeals/static/js/main.9b36a0bc.js",
+    "static/media/Background.jpg": "/Easymeals/static/media/Background.c1be3675d86461b82963.jpg",
+    "static/media/insta.jpg": "/Easymeals/static/media/insta.d1b52720d6021bf4ddfc.jpg",
+    "static/media/twitter.jpg": "/Easymeals/static/media/twitter.44d14f545474242cdd37.jpg",
+    "static/media/kadhaipaneer.jpg": "/Easymeals/static/media/kadhaipaneer.8b35e51b0b591f728e0f.jpg",
+    "static/media/pasta.jpg": "/Easymeals/static/media/pasta.4ecc94f6c67c40a08644.jpg",
+    "static/media/icecream.jpg": "/Easymeals/static/media/icecream.2b2037f22c4b3aa68872.jpg",
+    "static/media/dosa.jpg": "/Easymeals/static/media/dosa.bda7c552f8ff83ee206a.jpg",
+    "static/media/pizza.jpg": "/Easymeals/static/media/pizza.a0ae2ba9bca81c7b5633.jpg",
+    "static/media/cake.jpg": "/Easymeals/static/media/cake.3739b5069cbae2d3eb37.jpg",
+    "static/media/maggi.jpg": "/Easymeals/static/media/maggi.999b2e446bd04616b7d5.jpg",
+    "static/media/pasty.jpg": "/Easymeals/static/media/pasty.de11f5074a9d051fc026.jpg",
+    "static/media/wifi.jpg": "/Easymeals/static/media/wifi.a4c38ef1d646e835823a.jpg",
+    "static/media/cart.jpg": "/Easymeals/static/media/cart.0b5b71fa9a56a736f2bc.jpg",
+    "static/media/rajbhog.jpg": "/Easymeals/static/media/rajbhog.b2f591736334b6202021.jpg",
+    "static/media/p.jpg": "/Easymeals/static/media/p.2dabb0886b3ed24b9f80.jpg",
+    "static/media/time.jpg": "/Easymeals/static/media/time.a9f24254ab6722e80043.jpg",
+    "static/media/thumsup.jpg": "/Easymeals/static/media/thumsup.03e0a5b580d4c782302b.jpg",
+    "index.html": "/Easymeals/index.html",
+    "main.0d5b549c.css.map": "/Easymeals/static/css/main.0d5b549c.css.map",
+    "main.9b36a0bc.js.map": "/Easymeals/static/js/main.9b36a0bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d5b549c.css",
+    "static/js/main.9b36a0bc.js"
+  ]
+}
